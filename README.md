@@ -97,7 +97,7 @@ Randomized input (30 runs)
 
 
 
-100*100 input size matrix (1 run)
+100*100 input size matrix (randomized) (1 run)
 
 
 
