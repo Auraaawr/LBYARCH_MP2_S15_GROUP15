@@ -1,4 +1,5 @@
 # LBYARCH_MP2_S15_GROUP15
+# Members: ALCANTARA, Keira Gabrielle C. and FERNANDEZ, Candice Aura T.
 Specifications:
 
 
