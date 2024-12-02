@@ -30,6 +30,12 @@ Run the program (gcc and nasm should be installed):
 
 
 Output Screenshots:
+
+
+
+
+
+
 Manual input (1 run)
 
 
